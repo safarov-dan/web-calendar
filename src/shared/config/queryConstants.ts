@@ -1,0 +1,4 @@
+import { MILLISECONDS_PER_SECOND, MINUTES_PER_HOUR } from "./calendarConstants";
+
+export const QUERY_STALE_TIME_MS = MILLISECONDS_PER_SECOND * MINUTES_PER_HOUR * 5;
+export const QUERY_RETRY_COUNT = 1;
