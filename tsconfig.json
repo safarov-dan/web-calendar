@@ -16,7 +16,7 @@
 		"resolveJsonModule": true,
 		"isolatedModules": true,
 		"paths": {
-			"@ui/*": ["../ui-library/src/*"]
+			"@ui/*": ["./node_modules/@safarov-dan/ui-library/src/*"]
 		},
 
 		/* Linting */

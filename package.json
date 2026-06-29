@@ -31,6 +31,7 @@
 	},
 	"dependencies": {
 		"@js-temporal/polyfill": "^0.5.1",
+		"@safarov-dan/ui-library": "github:safarov-dan/Ui-library#main",
 		"@tailwindcss/vite": "^4.3.0",
 		"@tanstack/react-query": "^5.101.0",
 		"firebase": "^12.14.0",
